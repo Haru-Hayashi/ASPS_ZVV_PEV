@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "asps_zvv_pev.h": "c",
+        "stdbool.h": "c",
+        "table_reference.h": "c",
+        "stdio.h": "c",
+        "inductionmotor.h": "c",
+        "userdefined.h": "c",
+        "moduration.h": "c",
+        "inverter.h": "c",
+        "vector.h": "c",
+        "stdint.h": "c",
+        "integrator.h": "c",
+        "stdlib.h": "c",
+        "time.h": "c"
+    }
+}
