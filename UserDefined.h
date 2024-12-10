@@ -32,7 +32,7 @@
 #define I1_EPSILON (1e-3) //-2
 #define EPSILON (1e-3)
 
-// ASPSのテーブル書き込み分割数
+// ASPSのテーブル書き込み分割数 N=4
 #define WRITE_DIVISION 4
 
 
